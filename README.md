@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there! My name is *Juan* and I am second year CS major at UC Irvine.
 
+I am an aspiring ***Software Engineer*** hoping to do full-stack web devlopment and am willing to learn about any other programming field.
+
+Feel free to get in touch! Find me on **[LinkedIn](https://www.linkedin.com/in/1juan-rodriguez1/)**.
 <!--
 **1JC1/1JC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
