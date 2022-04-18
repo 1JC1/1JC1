@@ -1,6 +1,6 @@
 ### Hi there! My name is *Juan* and I am second year CS major at UC Irvine.
 
-I am an aspiring ***Software Engineer*** hoping to do full-stack web devlopment and am willing to learn about any other programming field.
+I am an aspiring ***Software Engineer*** hoping to do full-stack web devlopment, but I am also interested in learning about the other fields in programming.
 
 Feel free to get in touch! Find me on **[LinkedIn](https://www.linkedin.com/in/1juan-rodriguez1/)**.
 <!--
